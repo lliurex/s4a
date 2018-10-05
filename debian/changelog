@@ -1,3 +1,9 @@
+s4a (1.6+lliurex14) bionic; urgency=medium
+
+  * Initial release for bionic
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Fri, 05 Oct 2018 14:11:49 +0200
+
 s4a (1.6+lliurex4) xenial; urgency=medium
 
   * Removed deprecated locale
