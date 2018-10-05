@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component type="desktop-application">
+<id>s4a</id>
+<metadata_license>CC0-1.0</metadata_license>
+<name>S4A for Arduino</name>
+<name xml:lang="es">Scratch para Arduino</name>
+<name xml:lang="ca_ES@valencia">Scratch per a Arduino</name>
+<name xml:lang="ca_ES.UTF-8@valencia">Scratch per a Arduino</name>
+<name xml:lang="ca">Scratch per a Arduino</name>
+<summary>Programming system and content development tool based on Scratch (http://scratch</summary>
+<summary xml:lang="es">Sistema de programación visual basado en Scratch para programar con Arduino</summary>
+<summary xml:lang="ca_ES@valencia">Sistema de programació visual basat en Scratch per a programar amb Arduino</summary>
+<summary xml:lang="ca_ES.UTF-8@valencia">Sistema de programació visual basat en Scratch per a programar amb Arduino</summary>
+<summary xml:lang="ca">Sistema de programació visual basat en Scratch per a programar amb Arduino</summary>
+<description>
+<p>Programming system and content development tool based on Scratch (http://scratch.mit.edu)</p>
+<p xml:lang="es">S4A es una modificación de Scratch que permite programar la plataforma de hardware libre Arduino de una forma sencilla. Proporciona bloques nuevos para tratar con sensores y actuadores connectados a una placa Arduino. También cuenta con un panel de sensores similar al de la PicoBoard</p>
+<p xml:lang="ca_ES@valencia">S4A és una modificació d'Scratch que permet programar la plataforma de hardware lliure Arduino d'una manera senzilla. Proporciona blocs nous per tractar amb sensors i actuadors connectats a una placa Arduino. També compta amb un panell de sensors similar al de la PicoBoard</p>
+<p xml:lang="ca_ES.UTF-8@valencia">S4A és una modificació d'Scratch que permet programar la plataforma de hardware lliure Arduino d'una manera senzilla. Proporciona blocs nous per tractar amb sensors i actuadors connectats a una placa Arduino. També compta amb un panell de sensors similar al de la PicoBoard</p>
+<p xml:lang="ca">S4A és una modificació d'Scratch que permet programar la plataforma de hardware lliure Arduino d'una manera senzilla. Proporciona blocs nous per tractar amb sensors i actuadors connectats a una placa Arduino. També compta amb un panell de sensors similar al de la PicoBoard</p>
+</description>
+<categories>
+<category>Education</category>
+</categories>
+<icon type="stock">s4a</icon>
+<provides><binary>s4a</binary></provides>
+<keywords>
+<keyword>s4a</keyword>
+<keyword>S4A</keyword>
+<keyword>for</keyword>
+<keyword>Arduino</keyword>
+<keyword>Scratch</keyword>
+</keywords>
+
+</component>
