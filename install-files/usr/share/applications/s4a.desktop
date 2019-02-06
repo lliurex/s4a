@@ -14,6 +14,6 @@ Exec=s4a
 Terminal=false
 Type=Application
 Icon=s4a
-Categories=Education;
+Categories=LliureX-Computational-Thinking;
 MimeType=application/x-s4a-project
 
