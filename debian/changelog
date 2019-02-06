@@ -1,3 +1,9 @@
+s4a (1.6+lliurex15) bionic; urgency=medium
+
+  * Updated desktop category
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Wed, 06 Feb 2019 13:16:03 +0100
+
 s4a (1.6+lliurex14) bionic; urgency=medium
 
   * Initial release for bionic
