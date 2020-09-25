@@ -1,0 +1,13 @@
+Source: s4a
+Section: misc
+Priority: standard
+Maintainer: Equipo LliureX <lliurex@gva.es>
+Build-Depends: llxsrchelper,debhelper (>= 10)
+Standards-Version: 4.1.2
+
+Package: s4a
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends},  libc6 (>= 2.4), libcairo2 (>= 1.8.6), libglib2.0-0 (>= 2.20.1), libpango1.0-0 (>= 1.24.1), libv4l-0 (>= 0.5.0), lliurex-robotics
+Description:  Scratch 4 Arduino
+ A customized version of Scratch (http://scratch.mit.edu) 
+ prepared to interact with Arduino boards.
