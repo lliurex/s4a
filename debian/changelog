@@ -1,3 +1,9 @@
+s4a (1.6+lliurex25) focal; urgency=medium
+
+  * Initial release for focal
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Fri, 25 Sep 2020 13:50:38 +0200
+
 s4a (1.6+lliurex15) bionic; urgency=medium
 
   * Updated desktop category
