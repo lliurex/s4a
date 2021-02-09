@@ -1,3 +1,9 @@
+s4a (1.6+lliurex26) focal; urgency=medium
+
+  * Updated valencian locale file
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Tue, 09 Feb 2021 09:38:21 +0100
+
 s4a (1.6+lliurex25) focal; urgency=medium
 
   * Initial release for focal
