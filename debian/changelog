@@ -1,0 +1,65 @@
+s4a (1.6+lliurex26) focal; urgency=medium
+
+  * Updated valencian locale file
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Tue, 09 Feb 2021 09:38:21 +0100
+
+s4a (1.6+lliurex25) focal; urgency=medium
+
+  * Initial release for focal
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Fri, 25 Sep 2020 13:50:38 +0200
+
+s4a (1.6+lliurex15) bionic; urgency=medium
+
+  * Updated desktop category
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Wed, 06 Feb 2019 13:16:03 +0100
+
+s4a (1.6+lliurex14) bionic; urgency=medium
+
+  * Initial release for bionic
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Fri, 05 Oct 2018 14:11:49 +0200
+
+s4a (1.6+lliurex4) xenial; urgency=medium
+
+  * Removed deprecated locale
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Thu, 22 Jun 2017 09:14:33 +0200
+
+s4a (1.6+lliurex3) xenial; urgency=medium
+
+  * Added metainfo
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Tue, 16 May 2017 13:19:47 +0200
+
+s4a (1.6+lliurex2) xenial; urgency=medium
+
+  * Fix valencian translation in desktop file
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Thu, 01 Sep 2016 14:10:02 +0200
+
+s4a (1.6+lliurex1) xenial; urgency=medium
+
+  * First release to xenial
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Mon, 08 Feb 2016 13:51:41 +0100
+
+s4a (1.6+llx1505.02) trusty; urgency=high
+
+  * Added dependence on lliurex-robotics 
+
+ -- Angel Berlanas Vicente <angel.berlanas@gmail.com>  Mon, 23 Mar 2015 09:09:31 +0100
+
+s4a (1.6+llx1505.01) trusty; urgency=high
+
+  * Readty to trusty
+
+ -- Angel Berlanas Vicente <angel.berlanas@gmail.com>  Tue, 03 Mar 2015 12:58:22 +0100
+
+s4a (1.6) precise; urgency=high
+
+  * Initial Release.
+
+ -- Angel Berlanas Vicente <angel.berlanas@gmail.com>  Mon, 02 Mar 2015 16:09:24 +0100
